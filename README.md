@@ -1,4 +1,4 @@
-[![npm package](https://img.shields.io/npm/v/mscli-express-temp.svg)](https://www.npmjs.com/package/mscli-express-temp)
+[![npm package](https://img.shields.io/npm/v/msxcli-express-temp.svg)](https://www.npmjs.com/package/msxcli-express-temp)
 
 # Express 基础项目
 生成一个可用便捷的express后台项目，包含基本的上传和sql功能。
@@ -37,4 +37,4 @@ npm start
 router文件夹使用约定配置，只能有路由文件，不能有其他文件内容
 
 # License
-mscli is MIT licensed.
+msxcli is MIT licensed.

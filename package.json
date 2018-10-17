@@ -1,5 +1,5 @@
 {
-  "name": "mscli-express-temp",
+  "name": "msxcli-express-temp",
   "version": "0.1.0",
   "description": "a express base project",
   "main": "www/dev.js",
