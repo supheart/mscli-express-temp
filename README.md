@@ -37,4 +37,4 @@ npm start
 router文件夹使用约定配置，只能有路由文件，不能有其他文件内容
 
 # License
-msxcli is MIT licensed.
+msxcli-express-temp is MIT licensed.
